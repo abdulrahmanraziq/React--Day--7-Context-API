@@ -1,0 +1,15 @@
+.list-group-item-custom {
+  border-bottom: 1px solid #dee2e6!important;
+  padding: 1rem 1.25rem;
+}
+
+.list-group:last-child .list-group-item {
+  border-bottom: none!important;
+}
+
+.checkoutCards{
+  height: 500px;
+  padding: 10px;
+  background:#F7F2F2;
+  box-sizing: border-box;
+}
